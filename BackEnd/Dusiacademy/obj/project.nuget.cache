@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nf1EE/MBNxBbYPp6oRLq4FXGfMD8p9rGPYObazxVh6JYKeHm72rJtqRyJWqaWDl/IMZoQ+UlFRNqAICvUJjYbw==",
+  "dgSpecHash": "C9ArI9sgBpaI9X1aT5/p1ju8ncJ130IFUClqKWQk6XZSkVEnMm+fUM3erwvBrDl1wRmJmdO6cG8PyqtGpZSGJw==",
   "success": true,
-  "projectFilePath": "C:\\projeto Dusidacademy\\Dusidacademy\\Backand\\Dusiacademy\\DusiacademyAPI.csproj",
+  "projectFilePath": "C:\\projeto Dusidacademy\\Dusidacademy\\BackEnd\\Dusiacademy\\DusiacademyAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CCE\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\CCE\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
