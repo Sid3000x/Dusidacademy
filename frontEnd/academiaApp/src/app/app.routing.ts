@@ -4,15 +4,19 @@ import { CadastroAlunosComponent } from './components/pages/cadastro-alunos/cada
 import { ConsultaAlunosComponent } from './components/pages/consulta-alunos/consulta-alunos.component';
 import { EdicaoAlunosComponent } from './components/pages/edicao-alunos/edicao-alunos.component';
 import { CadastroFuncionarioComponent } from './components/pages/cadastro-funcionario/cadastro-funcionario.component';
+import { ConsultaFuncionariosComponent } from './components/pages/consulta-funcionarios/consulta-funcionarios.component';
 
 
 //mapeamento das rotas do projeto
 const routes: Routes = [
   { path: 'pages/cadastro-alunos', component: CadastroAlunosComponent },
-  { path: 'pages/cadastro-funcionarios', component: CadastroFuncionarioComponent },
   { path: 'pages/consulta-alunos', component: ConsultaAlunosComponent },
+  { path: 'pages/cadastro-funcionarios', component: CadastroFuncionarioComponent },
+  { path: 'pages/consulta-funcionarios', component: ConsultaFuncionariosComponent },
   { path: 'pages/edicao-alunos/:id', component: EdicaoAlunosComponent },
+
   { path: '', pathMatch: 'full', redirectTo: '/pages/consulta-alunos' },
+
 ];
 
 

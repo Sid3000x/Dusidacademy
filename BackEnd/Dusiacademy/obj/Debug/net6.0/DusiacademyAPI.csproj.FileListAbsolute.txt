@@ -62,3 +62,35 @@ C:\projeto Dusidacademy\Dusidacademy\Backand\Dusiacademy\obj\Debug\net6.0\refint
 C:\projeto Dusidacademy\Dusidacademy\Backand\Dusiacademy\obj\Debug\net6.0\DusiacademyAPI.pdb
 C:\projeto Dusidacademy\Dusidacademy\Backand\Dusiacademy\obj\Debug\net6.0\DusiacademyAPI.genruntimeconfig.cache
 C:\projeto Dusidacademy\Dusidacademy\Backand\Dusiacademy\obj\Debug\net6.0\ref\DusiacademyAPI.dll
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\obj\Debug\net6.0\DusiacademyAPI.csproj.AssemblyReference.cache
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\obj\Debug\net6.0\DusiacademyAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\obj\Debug\net6.0\DusiacademyAPI.AssemblyInfoInputs.cache
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\obj\Debug\net6.0\DusiacademyAPI.AssemblyInfo.cs
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\obj\Debug\net6.0\DusiacademyAPI.csproj.CoreCompileInputs.cache
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\obj\Debug\net6.0\DusiacademyAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\obj\Debug\net6.0\DusiacademyAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\obj\Debug\net6.0\DusiacademyAPI.dll
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\obj\Debug\net6.0\refint\DusiacademyAPI.dll
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\obj\Debug\net6.0\DusiacademyAPI.pdb
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\bin\Debug\net6.0\appsettings.Development.json
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\bin\Debug\net6.0\appsettings.json
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\bin\Debug\net6.0\DusiacademyAPI.exe
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\bin\Debug\net6.0\DusiacademyAPI.deps.json
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\bin\Debug\net6.0\DusiacademyAPI.runtimeconfig.json
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\bin\Debug\net6.0\DusiacademyAPI.dll
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\bin\Debug\net6.0\DusiacademyAPI.pdb
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\obj\Debug\net6.0\staticwebassets\msbuild.DusiacademyAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\obj\Debug\net6.0\staticwebassets\msbuild.build.DusiacademyAPI.props
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DusiacademyAPI.props
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DusiacademyAPI.props
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\obj\Debug\net6.0\scopedcss\bundle\DusiacademyAPI.styles.css
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\obj\Debug\net6.0\DusiacademyAPI.csproj.CopyComplete
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\obj\Debug\net6.0\DusiacademyAPI.genruntimeconfig.cache
+C:\Projeto-cadastro-alunos\Ducidacademy\Dusidacademy\BackEnd\Dusiacademy\obj\Debug\net6.0\ref\DusiacademyAPI.dll

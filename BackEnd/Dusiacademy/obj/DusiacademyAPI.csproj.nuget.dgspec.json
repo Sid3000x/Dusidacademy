@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projeto Dusidacademy\\Dusidacademy\\BackEnd\\Dusiacademy\\DusiacademyAPI.csproj": {}
+    "C:\\Projeto-cadastro-alunos\\Ducidacademy\\Dusidacademy\\BackEnd\\Dusiacademy\\DusiacademyAPI.csproj": {}
   },
   "projects": {
-    "C:\\projeto Dusidacademy\\Dusidacademy\\BackEnd\\Dusiacademy\\DusiacademyAPI.csproj": {
+    "C:\\Projeto-cadastro-alunos\\Ducidacademy\\Dusidacademy\\BackEnd\\Dusiacademy\\DusiacademyAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projeto Dusidacademy\\Dusidacademy\\BackEnd\\Dusiacademy\\DusiacademyAPI.csproj",
+        "projectUniqueName": "C:\\Projeto-cadastro-alunos\\Ducidacademy\\Dusidacademy\\BackEnd\\Dusiacademy\\DusiacademyAPI.csproj",
         "projectName": "DusiacademyAPI",
-        "projectPath": "C:\\projeto Dusidacademy\\Dusidacademy\\BackEnd\\Dusiacademy\\DusiacademyAPI.csproj",
-        "packagesPath": "C:\\Users\\CCE\\.nuget\\packages\\",
-        "outputPath": "C:\\projeto Dusidacademy\\Dusidacademy\\BackEnd\\Dusiacademy\\obj\\",
+        "projectPath": "C:\\Projeto-cadastro-alunos\\Ducidacademy\\Dusidacademy\\BackEnd\\Dusiacademy\\DusiacademyAPI.csproj",
+        "packagesPath": "C:\\Users\\Junior\\.nuget\\packages\\",
+        "outputPath": "C:\\Projeto-cadastro-alunos\\Ducidacademy\\Dusidacademy\\BackEnd\\Dusiacademy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\CCE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

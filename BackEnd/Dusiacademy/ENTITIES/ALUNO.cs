@@ -2,7 +2,9 @@
 {
     public class ALUNO
     {
-          public int Matrícula { get; set; }
+        internal int idade;
+
+        public int Matrícula { get; set; }
           public string Nome { get; set; }
           public int Altura { get; set;}
           public int Peso { get;}
